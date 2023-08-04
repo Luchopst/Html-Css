@@ -1,0 +1,40 @@
+body{
+    padding: 20px;
+}
+h1{
+    color: rgb(71, 172, 172);
+}
+h2{
+    color: blue;
+}
+table{
+    border: 1px solid black;
+    border-collapse:collapse;
+}
+th{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
+ .rojo {
+    color: red;
+}
+.amarillo{
+    color: orange;
+}
+.verde{
+    color: green;
+}
+.azul{
+    columns: blue;
+}
+.roza{
+    color: rgb(214, 108, 126);
+}
+.verdeOs{
+    color: rgb(63, 108, 63);
+}
+.violeta{
+    color: blueviolet;
+}

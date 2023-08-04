@@ -1,0 +1,17 @@
+h1 {
+    color: white;
+    text-align: center;
+
+
+}
+
+h1:hover {
+    color: red;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    transition: 1.5s;
+}
+
+body{
+    background-image:url(https://www.pexels.com/es-es/foto/nieve-madera-paisaje-montanas-17671746/);
+}

@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+}
+.container{
+    border: 1px solid #000;
+    border-radius: 20px;
+    padding: 40px;
+}
+#rtaSiOno{
+    padding: 20px;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid red;
+    border-radius: 20px;
+}
+button{
+    margin: 10px;
+}

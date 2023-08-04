@@ -1,0 +1,23 @@
+body{
+    padding: 10% 20% 20% 10%;
+}
+.card{
+    width: 18rem; 
+    border-radius: 
+    20px; 
+    padding: 5%;
+}
+.card-body{
+    padding: 10% 10% 0ch 10%;
+    text-align: center;
+}
+.card-text{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+
+}
+.card-img-top{
+    border-radius: 10px;
+}
+.card-2{
+    position: relative;
+}

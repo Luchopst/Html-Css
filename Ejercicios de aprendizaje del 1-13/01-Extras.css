@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/prog.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    color: antiquewhite;
+    
+}
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.content{
+    width: 80%;
+    height: 80%;
+}

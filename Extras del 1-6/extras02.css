@@ -1,0 +1,20 @@
+body{
+    background-color: antiquewhite;
+}
+table{
+    text-align: center;
+    padding: 10px;
+    border-collapse: collapse;
+    margin: 5% 30% 30% 5%;
+}
+.titulos{
+    
+    background-color: #3333;
+}
+.titulos_laterales{
+    background-color:  #E6F3FF;
+    text-align: start;
+}
+.beige{
+    background-color: #ffffcc;
+}
